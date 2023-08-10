@@ -28,7 +28,7 @@ python test.py
  ```
 @inproceedings{Zhu2022EffectiveIT,
   title={Effective Image Tampering Localization with Multi-Scale ConvNeXt Feature Fusion},
-  author={Haochen Zhu and Gang Cao and Mo Zhao},
+  author={Haochen Zhu, Gang Cao, Mo Zhao},
   year={2022},
   url={https://arxiv.org/abs/2208.13739}
 }
