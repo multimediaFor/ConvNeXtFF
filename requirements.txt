@@ -1,0 +1,4 @@
+torch==1.8.0
+mmcv-full==1.6.2
+mmcls==0.24.0
+mmsegmentation==0.29.0
