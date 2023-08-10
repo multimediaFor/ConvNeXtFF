@@ -30,7 +30,7 @@ python test.py
   title={Effective Image Tampering Localization with Multi-Scale ConvNeXt Feature Fusion},
   author={Haochen Zhu and Gang Cao and Mo Zhao},
   year={2022},
-  url={https://api.semanticscholar.org/CorpusID:255941956}
+  url={https://arxiv.org/abs/2208.13739}
 }
 ```
 ### Contact
