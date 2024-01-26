@@ -1,7 +1,5 @@
 ## Effective Image Tampering Localization with Multi-Scale ConvNeXt Feature Fusion  
-[![arXiv](https://img.shields.io/badge/-arXiv-B31B1B.svg?style=for-the-badge)](https://arxiv.org/abs/2208.13739)
 
-Official PyTorch implementation of the ConvNeXtFF model proposed in the paper "Haochen Zhu, Gang Cao, Mo Zhao. Effective Image Tampering Localization with Multi-Scale ConvNeXt Feature Fusion, arXiv 2022".
 ### Network Architecture
 <center> <img src="fig/Fig-1.png" alt="architecture"/> </center>
 
@@ -26,11 +24,14 @@ python test.py
 
 ## Bibtex
  ```
-@inproceedings{Zhu2022EffectiveIT,
-  title={Effective Image Tampering Localization with Multi-Scale ConvNeXt Feature Fusion},
-  author={Haochen Zhu, Gang Cao, Mo Zhao},
-  year={2022},
-  url={https://arxiv.org/abs/2208.13739}
+@article{zhu2024effective,
+  title={Effective image tampering localization with multi-scale convnext feature fusion},
+  author={Zhu, Haochen and Cao, Gang and Zhao, Mo and Tian, Huawei and Lin, Weiguo},
+  journal={Journal of Visual Communication and Image Representation},
+  volume={98},
+  pages={103981},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 ### Contact
