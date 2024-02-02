@@ -16,7 +16,7 @@ python train.py
 
 ### Testing
 
-Download the [weights](https://pan.baidu.com/s/1AI2KQJmBdEeGtPGZGyNkWQ)(code `jjyl`) and move it into the `./checkpoints/`.
+Download the weights from [Google Drive Link](https://drive.google.com/file/d/1dCUIOixReCpQUlFwJFQNvnk8X8U_CV9B/view?usp=drive_link) or [Baiduyun Link](https://pan.baidu.com/s/1AI2KQJmBdEeGtPGZGyNkWQ) (extract code: `jjyl`) and move it into the `./checkpoints/`.
 To run all images in "samples/" directory, run:
 ```
 python test.py
@@ -34,6 +34,6 @@ python test.py
   publisher={Elsevier}
 }
 ```
-### Contact
+## Contact
 
 If you have any questions, please contact me(zhuhc_98@163.com).
