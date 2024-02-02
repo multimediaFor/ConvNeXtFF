@@ -9,7 +9,7 @@ And refer to [official MMSegmentation documentation](https://mmsegmentation.read
 
 ### Training
 Prepare for the training dataset like VOCdevkit and move it into `./data/`.
-The pre-trained model can be downloaded as following:[pre-trained model for backbone](https://pan.baidu.com/s/1CWkdVMwPmgQnKVQZNM1f9g), code `0yh3`.
+The pre-trained model for backbone can be downloaded as following: [Google Drive Link](https://drive.google.com/file/d/1Grw9X48WJ3iAMHSQVXpxPoFNXHEPkONm/view?usp=sharing) or [Baiduyun Link](https://pan.baidu.com/s/1CWkdVMwPmgQnKVQZNM1f9g)(extract code: `0yh3`).
 ```python
 python train.py
 ```
